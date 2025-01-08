@@ -37,10 +37,6 @@
 
 Contributions are welcome! Please feel free to submit a pull request with any improvements or new features.
 
-## License
-
-This project is licensed under the [MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE) - see the LICENSE file for details.
-
 **Note:**
 
 - Replace `DasunDK`

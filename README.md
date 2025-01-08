@@ -14,7 +14,7 @@
 2. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your-username/telegram-joking-bot-NodeJS.git](https://github.com/your-username/telegram-joking-bot-NodeJS.git)
+   git clone [https://github.com/DasunDK/telegram-joking-bot-NodeJS.git](https://github.com/DasunDK/telegram-joking-bot-NodeJS.git)
    ```
 
 3. **Install Dependencies**
